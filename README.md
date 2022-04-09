@@ -1,2 +1,2 @@
 # Random-Forest-for-Car-Evaluation
-Applied Random Forest method on car evaluation dataset
+Applied Random Forest technique of KNN on car evaluation dataset
